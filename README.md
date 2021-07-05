@@ -12,7 +12,7 @@
   
   ---
   ## Description
-  This app allows you to create and store budgetary transactions, even offline!  When brought back online, any pending transactions should be stored in the database.
+  This app allows you to create and store budgetary transactions, even offline!  When brought back online, any pending transactions should be stored in the database.  Has online event listener.
 
   #### Installation Instructions
   Clone this to your local machine, and run npm i to get all of the dependencies.  I have node.js installed, and this project uses the npm library.
